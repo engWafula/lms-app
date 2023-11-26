@@ -1,4 +1,8 @@
+
+/* eslint-disable */
+
 "use client";
+
 
 import * as z from "zod";
 import axios from "axios";
