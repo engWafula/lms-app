@@ -4,9 +4,9 @@ export default function Logo() {
   return (
     <div>
       <Image
-      height={90}
-      width={90}
-      src="/logo.svg"
+      height={100}
+      width={200}
+      src="/logo.png"
       alt='logo'
       />
     </div>
